@@ -1,0 +1,15 @@
+.DS_Store
+**/.DS_Store
+
+.obsidian/
+**/.obsidian/
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+.env
+.venv/
+
+data/
+**/data/
